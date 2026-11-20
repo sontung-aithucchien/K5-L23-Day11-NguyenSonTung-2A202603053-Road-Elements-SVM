@@ -1,0 +1,48 @@
+{
+  "manifest": "road-delivery/1",
+  "format": "CVAT for images 1.1",
+  "guideline": "Road v1.0",
+  "name": "nguyensontung",
+  "revision": 1,
+  "created_at": "2026-11-20T17:08:36+00:00",
+  "files": [
+    {
+      "file": "nguyensontung-front.zip",
+      "bytes": 1058230,
+      "sha256": "a9649b9e7387bdcc83c1b82ea4faa77d0ef6866790b96a59a20563ed31b67455",
+      "contains_images": true,
+      "images": 16,
+      "images_unlabelled": 0,
+      "images_all_tags": 16,
+      "shapes_by_label": {
+        "crosswalk": 6,
+        "drivable": 31,
+        "lane": 37,
+        "traffic_light": 25,
+        "traffic_sign": 16
+      }
+    },
+    {
+      "file": "nguyensontung-fisheye.zip",
+      "bytes": 22921949,
+      "sha256": "3c060fa5f0e67c303b6f70e78cb8d9643a6206bf780342b15d7b454a7652241a",
+      "contains_images": true,
+      "images": 12,
+      "images_unlabelled": 0,
+      "images_all_tags": 12,
+      "shapes_by_label": {
+        "crosswalk": 8,
+        "drivable": 4,
+        "lane": 4,
+        "road_curb": 2,
+        "traffic_light": 9
+      }
+    }
+  ],
+  "lint": {
+    "nặng": 9,
+    "chính": 5,
+    "nhẹ": 0
+  },
+  "note": "Tạo bởi road_check lint. Mô tả file đã gửi, không phải kết luận chất lượng."
+}
