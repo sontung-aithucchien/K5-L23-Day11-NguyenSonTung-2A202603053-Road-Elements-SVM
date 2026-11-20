@@ -2,7 +2,7 @@
 Họ tên: Nguyễn Sơn Tùng              Mã học viên: 2A202603053  
 Phiên bản CVAT (Help → About): 2.80.0  
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1  
-Thời điểm export (ngày giờ trên CVAT): 2026-11-20 17:03–17:04 UTC    Số lần nộp lại sau Rework: 0  
+Thời điểm export (ngày giờ trên CVAT): 21-11-2026 00:03–00:04    Số lần nộp lại sau Rework: 0  
 
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
