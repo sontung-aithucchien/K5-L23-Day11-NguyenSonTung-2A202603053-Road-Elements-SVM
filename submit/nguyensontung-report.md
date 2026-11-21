@@ -70,7 +70,6 @@ Bạn kiểm lô của tôi: Trần Đức Hải    Quyết định nhận đư�
 | --- | ---: | --- | --- |
 | QC1-02 (thiếu L1/R1 ở A05, A06, A07, A08, A10) | 5 | Đồng ý một phần (A05, A06 mặt đường không thấy vạch; A07, A08, A10 cần bổ sung) | Đang rà soát bổ sung trên CVAT |
 | QC1-05 (2 polyline cùng position L1/R1 ở A04, A07, A08, A11) | 4 | Đồng ý (vạch đứt bị tách polyline) | Sửa nối liền thành 1 polyline duy nhất |
-| QC1-12 (zip kèm ảnh) | 1 | Đồng ý | Sẽ export lại bỏ chọn Save images |
 
 ## 5. Kiểm file export
 | File | Mở lại được? | Số shape ảnh 1 (job / file) | Số shape ảnh 2 (job / file) | Tag camera có trong XML? |
